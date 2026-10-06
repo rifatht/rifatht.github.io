@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Ride-sharing interest by age group reported in the transport poster">
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#0d1821}.small{font-size:12px;fill:#607078}.label{font-size:13px;font-weight:650}.title{font-family:Georgia,Times New Roman,serif;font-size:27px;font-weight:500}.grid{stroke:#e6e8e3;stroke-width:1}</style>
+<rect width="900" height="380" rx="24" fill="#fbfaf5"/>
+<text x="55" y="55" class="title">Ride-sharing interest reported in the poster</text>
+<text x="55" y="82" class="small">One Bangladesh-context signal used in the transport policy analysis.</text>
+<text x="55" y="159" class="label">23-27</text>
+<rect x="150" y="130" width="520.8" height="45" rx="10" fill="#2f766f"/>
+<text x="682.8" y="159" class="label">42%</text>
+<text x="55" y="234" class="label">28-32</text>
+<rect x="150" y="205" width="471.2" height="45" rx="10" fill="#2f766f"/>
+<text x="633.2" y="234" class="label">38%</text>
+<text x="55" y="309" class="label">>32</text>
+<rect x="150" y="280" width="49.6" height="45" rx="10" fill="#2f766f"/>
+<text x="211.6" y="309" class="label">4%</text>
+<text x="150.0" y="355" text-anchor="middle" class="small">0%</text>
+<text x="274.0" y="355" text-anchor="middle" class="small">10%</text>
+<text x="398.0" y="355" text-anchor="middle" class="small">20%</text>
+<text x="522.0" y="355" text-anchor="middle" class="small">30%</text>
+<text x="646.0" y="355" text-anchor="middle" class="small">40%</text>
+<text x="770.0" y="355" text-anchor="middle" class="small">50%</text>
+</svg>

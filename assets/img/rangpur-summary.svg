@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f3f0e8"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="70" y="88" fill="#1a3f4a" font-size="22" letter-spacing="3">PUBLISHED SPATIAL VULNERABILITY STUDY</text>
+<text x="70" y="150" fill="#101b24" font-size="48" font-weight="700">Greater Rangpur flood vulnerability</text>
+<text x="70" y="208" fill="#52646c" font-size="25">18 indicators across socioeconomic and physical dimensions</text>
+<g transform="translate(70 295)">
+<rect x="0" y="0" width="1030" height="34" rx="17" fill="#d6ddd8"/>
+<rect x="0" y="0" width="670" height="34" rx="17" fill="#2f766f"/>
+<circle cx="670" cy="17" r="20" fill="#0c1724"/>
+<text x="0" y="80" font-size="20" fill="#52646c">minimum observed score</text><text x="0" y="120" font-size="52" fill="#101b24" font-weight="700">0.41</text>
+<text x="850" y="80" font-size="20" fill="#52646c">maximum observed score</text><text x="850" y="120" font-size="52" fill="#101b24" font-weight="700">0.67</text>
+</g>
+<g transform="translate(70 565)"><text x="0" y="0" fill="#101b24" font-size="72" font-weight="700">15</text><text x="110" y="-8" fill="#52646c" font-size="26">upazilas classified</text><text x="110" y="28" fill="#52646c" font-size="26">high or very high</text><text x="620" y="0" fill="#101b24" font-size="72" font-weight="700">2021</text><text x="805" y="-8" fill="#52646c" font-size="26">conference</text><text x="805" y="28" fill="#52646c" font-size="26">proceedings</text></g>
+</g></svg>
