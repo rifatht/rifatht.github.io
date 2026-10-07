@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+<title id="title">Padma Bridge traffic counterfactual framework</title>
+<desc id="desc">A research framework showing observed bridge traffic, a no-bridge counterfactual, behavioural attribution and scenario forecasting.</desc>
+<rect width="1200" height="700" fill="#f8f6ef"/>
+<text x="62" y="58" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#2f766f" letter-spacing="2">TRANSPORT RESEARCH · ONGOING</text>
+<text x="62" y="104" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650" fill="#10212b">Padma Bridge traffic: observed vs no-bridge counterfactual</text>
+<text x="62" y="136" font-family="Inter, Arial, sans-serif" font-size="17" fill="#607179">Mixed-methods transport analysis with uncertainty and behavioural interpretation</text>
+<rect x="62" y="184" width="1076" height="442" rx="24" fill="#fffdfa" stroke="#cbd4cf"/>
+
+<!-- network / river -->
+<path d="M520 184 C482 262 520 330 489 398 C456 470 487 548 442 626 L647 626 C677 541 642 470 676 405 C715 329 678 258 720 184 Z" fill="#bddbe2" opacity=".9"/>
+<line x1="500" y1="405" x2="692" y2="405" stroke="#0c1722" stroke-width="10" stroke-linecap="round"/>
+<line x1="500" y1="394" x2="692" y2="394" stroke="#fffdfa" stroke-width="2" stroke-linecap="round"/>
+<g stroke="#0c1722" stroke-width="4"><line x1="530" y1="405" x2="530" y2="438"/><line x1="570" y1="405" x2="570" y2="438"/><line x1="610" y1="405" x2="610" y2="438"/><line x1="650" y1="405" x2="650" y2="438"/></g>
+<g fill="#fffdfa" stroke="#2f766f" stroke-width="4"><circle cx="175" cy="285" r="10"/><circle cx="260" cy="355" r="10"/><circle cx="145" cy="505" r="10"/><circle cx="320" cy="525" r="10"/><circle cx="860" cy="300" r="10"/><circle cx="1010" cy="390" r="10"/><circle cx="850" cy="510" r="10"/><circle cx="1030" cy="530" r="10"/></g>
+<g stroke="#9ba9a8" stroke-width="3"><line x1="175" y1="285" x2="260" y2="355"/><line x1="260" y1="355" x2="320" y2="525"/><line x1="145" y1="505" x2="320" y2="525"/><line x1="860" y1="300" x2="1010" y2="390"/><line x1="860" y1="300" x2="850" y2="510"/><line x1="850" y1="510" x2="1030" y2="530"/><line x1="1010" y1="390" x2="1030" y2="530"/><line x1="260" y1="355" x2="500" y2="405"/><line x1="692" y1="405" x2="860" y2="300"/><line x1="320" y1="525" x2="500" y2="405"/><line x1="692" y1="405" x2="850" y2="510"/></g>
+<text x="118" y="238" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#607179">Pre-bridge movement system</text>
+<text x="820" y="238" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" fill="#607179">Post-opening bridge traffic</text>
+
+<!-- four evidence boxes -->
+<g font-family="Inter, Arial, sans-serif">
+<rect x="90" y="548" width="236" height="58" rx="16" fill="#eef2f1" stroke="#cbd4cf"/><text x="110" y="571" font-size="11" font-weight="800" fill="#2f766f" letter-spacing="1">NO-BRIDGE ESTIMATE</text><text x="110" y="594" font-size="20" font-weight="700" fill="#10212b">8,052 vehicles/day</text>
+<rect x="341" y="548" width="236" height="58" rx="16" fill="#eef2f1" stroke="#cbd4cf"/><text x="361" y="571" font-size="11" font-weight="800" fill="#2f766f" letter-spacing="1">OBSERVED TRAFFIC</text><text x="361" y="594" font-size="20" font-weight="700" fill="#10212b">20,240 vehicles/day</text>
+<rect x="592" y="548" width="236" height="58" rx="16" fill="#eef2f1" stroke="#cbd4cf"/><text x="612" y="571" font-size="11" font-weight="800" fill="#2f766f" letter-spacing="1">EXCESS TRAFFIC</text><text x="612" y="594" font-size="20" font-weight="700" fill="#10212b">12,188/day · 60.2%</text>
+<rect x="843" y="548" width="267" height="58" rx="16" fill="#eef2f1" stroke="#cbd4cf"/><text x="863" y="571" font-size="11" font-weight="800" fill="#2f766f" letter-spacing="1">2054 SCENARIOS</text><text x="863" y="594" font-size="20" font-weight="700" fill="#10212b">33,169–44,537/day</text>
+</g>
+</svg>
