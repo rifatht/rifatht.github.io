@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#0c1724"/>
+<g stroke="#26495a" stroke-width="1" opacity=".45"><path d="M0 80H1200"/><path d="M0 160H1200"/><path d="M0 240H1200"/><path d="M0 320H1200"/><path d="M0 400H1200"/><path d="M0 480H1200"/><path d="M0 560H1200"/><path d="M0 640H1200"/><path d="M0 720H1200"/><path d="M80 0V760"/><path d="M160 0V760"/><path d="M240 0V760"/><path d="M320 0V760"/><path d="M400 0V760"/><path d="M480 0V760"/><path d="M560 0V760"/><path d="M640 0V760"/><path d="M720 0V760"/><path d="M800 0V760"/><path d="M880 0V760"/><path d="M960 0V760"/><path d="M1040 0V760"/><path d="M1120 0V760"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="70" y="90" fill="#83e1d1" font-size="22" letter-spacing="3">EARTH OBSERVATION + MACHINE LEARNING</text>
+<text x="70" y="150" fill="#f3f0e8" font-size="44" font-weight="700">Cyclone-induced flood vulnerability</text>
+<g fill="#142838" stroke="#31586a" stroke-width="2">
+<rect x="70" y="260" rx="18" width="235" height="150"/><rect x="360" y="260" rx="18" width="235" height="150"/><rect x="650" y="260" rx="18" width="235" height="150"/><rect x="940" y="260" rx="18" width="190" height="150"/>
+</g>
+<g fill="#dfe9e7" font-size="24" text-anchor="middle"><text x="187" y="325">Landsat</text><text x="187" y="360">5 / 8 / 9</text><text x="477" y="325">NDVI, NDWI,</text><text x="477" y="360">GNDVI, LST</text><text x="767" y="325">Random Forest</text><text x="767" y="360">regression</text><text x="1035" y="325">Spatial</text><text x="1035" y="360">prediction</text></g>
+<g stroke="#83e1d1" stroke-width="4" fill="none"><path d="M305 335H355"/><path d="M595 335H645"/><path d="M885 335H935"/></g>
+<g fill="#f3f0e8"><text x="70" y="565" font-size="72" font-weight="700">R² 0.83</text><text x="70" y="610" font-size="20" fill="#a7b6bc">Sidr training context</text><text x="420" y="565" font-size="72" font-weight="700">R² 0.79</text><text x="420" y="610" font-size="20" fill="#a7b6bc">Aila cross-event test</text></g>
+</g></svg>
