@@ -2,6 +2,15 @@
   const year = document.querySelector('[data-year]');
   if (year) year.textContent = new Date().getFullYear();
 
+  // Mark the current section without changing the navigation structure.
+  const page = window.location.pathname.split('/').pop() || 'index.html';
+  document.querySelectorAll('.navlinks a[href]').forEach(link => {
+    const href = link.getAttribute('href');
+    if (href === page || (page.startsWith('project-') && href === 'research.html')) {
+      link.setAttribute('aria-current', 'page');
+    }
+  });
+
   const toggle = document.querySelector('.nav-toggle');
   const nav = document.querySelector('#site-nav');
   if (toggle && nav) {
